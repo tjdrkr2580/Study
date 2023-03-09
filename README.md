@@ -11,4 +11,4 @@
         └── webp , svg.md
 ```
 
-- 2023. 3. 9 ~ 10 - 시작 ( useInfinityQuery, webp, svg)
+- 2023/03/09 ~ 10 : 시작 ( useInfinityQuery, webp, svg)
