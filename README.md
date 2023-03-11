@@ -13,6 +13,8 @@
 자주 업데이트 안될 것 같음.
 ```
 
-- 2023/03/11 : webRTC?
-- 2023/03/10 : Websocket?
+- 2023/03/13 : websocket, webRTC
+- 2023/03/12 : 기획 일지
+- 2023/03/11 : webRTC 중간
+- 2023/03/10 : Websocket 중간
 - 2023/03/09 ~ 10 : 시작 ( useInfinityQuery, webp, svg)
